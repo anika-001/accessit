@@ -51,12 +51,12 @@ export class SigninComponent implements OnInit {
   providerfacebook: any;
 
   config = {
-    apiKey: "AIzaSyCiFuNimhFHTVnJEpWmC44fnmbW08Af-DI",
-    authDomain: "accessit-155bf.firebaseapp.com",
-    projectId: "accessit-155bf",
-    storageBucket: "accessit-155bf.appspot.com",
-    messagingSenderId: "114732340154",
-    appId: "1:114732340154:web:49b2f5df7a8026af054383"
+    apiKey: "AIzaSyCnpk8iuTAAbIgEv8OJsOGOF-a2lWlNExg",
+    authDomain: "accessit-6bfe9.firebaseapp.com",
+    projectId: "accessit-6bfe9",
+    storageBucket: "accessit-6bfe9.appspot.com",
+    messagingSenderId: "270363007732",
+    appId: "1:270363007732:web:b9adc2a3183fba76775ca1"
   }
 
   move() {
